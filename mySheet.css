@@ -1,2 +1,20 @@
 ﻿body {
+    font-family: 'Old Standard TT', serif;
+}
+nav#navvy.navbar.navbar-static-top{
+    margin-top:0px;
+    margin-bottom: 0px;
+    color: black;
+    background-color:dimgrey;
+}
+/*For all anchor elements withing navvy*/
+#navvy a{
+    color: white;
+}
+
+#navvy a:hover{
+    background: none;
+}
+li.active.left{
+    text-align:left;
 }
