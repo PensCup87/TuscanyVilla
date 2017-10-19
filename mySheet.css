@@ -5,9 +5,8 @@ nav#navvy.navbar.navbar-static-top{
     margin-top:0px;
     margin-bottom: 0px;
     color: black;
-    background-color:dimgrey;
+    background-color:#474E5E;
 }
-/*For all anchor elements withing navvy*/
 #navvy a{
     color: white;
 }
@@ -17,4 +16,42 @@ nav#navvy.navbar.navbar-static-top{
 }
 li.active.left{
     text-align:left;
+}
+jumbotron.mainSec {
+    display:inline;
+}
+
+.mapImage{
+    margin-right:auto;
+}
+.mainImgTxt {
+    color: white;
+    float: left;
+}
+.mainSec {
+    background-image: url('HTML PICS/largeVillaWithPoolHouse.jpg');
+    background-size:cover;
+    margin-bottom:0px;
+    padding-bottom:0px;
+    height: 400px;
+}
+.rightSide{
+    height:400px;
+}
+.locations{
+    border-top:0px;
+    margin-top:0px;
+    padding-top:0em;
+    background-color:#474E5E;
+    color:white;
+    text-align:center;
+}
+.footer{
+    background-color:#474E5E;
+    color:white;
+    text-align: center;
+}
+
+.rightSide {
+    text-align:right;
 }
