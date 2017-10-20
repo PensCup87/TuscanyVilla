@@ -61,6 +61,10 @@ button{
     background-color:#474E5E;
     color:white;
 }
+.button2{
+    background-color:white;
+    color: #474E5E;
+}
 /*.mountainVilla{
     float: right;
     height:75px;
@@ -89,4 +93,13 @@ div.col-md-3 {
 .locationPics{
     width:100%;
     height:79%;
+}
+.location2{
+    background-color:#474E5E;
+    color:white;
+}
+.modernVilla{
+    padding-top:23px;
+    padding-bottom:71px;
+    padding-left:23px;
 }
