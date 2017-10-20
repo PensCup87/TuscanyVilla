@@ -24,9 +24,9 @@ jumbotron.mainSec {
 .mapImage{
     margin-right:auto;
 }
-.mainImgTxt {
+.mainText {
     color: white;
-    float: left;
+    text-align: center;
 }
 .mainSec {
     background-image: url('HTML PICS/largeVillaWithPoolHouse.jpg');
@@ -37,12 +37,13 @@ jumbotron.mainSec {
 }
 .rightSide{
     height:400px;
+    
 }
 .locations{
     border-top:0px;
     margin-top:0px;
     margin-bottom:0px;
-    padding-top:0em;
+    padding-top:0px;
     background-color:#474E5E;
     color:white;
     text-align:center;
@@ -55,4 +56,37 @@ jumbotron.mainSec {
 
 .rightSide {
     text-align:right;
+}
+button{
+    background-color:#474E5E;
+    color:white;
+}
+/*.mountainVilla{
+    float: right;
+    height:75px;
+    width: 125px;
+    margin-right: 130px;
+}*/
+h3 , button{
+    margin-left:70px;
+    margin-right:70px;
+}
+.locationDescription{
+    margin-left:70px;
+    margin-right:70px;
+}
+div.col-md-3 {
+    background-image: url('HTML PICS/mapWithLocation.jpg');
+    
+}
+.jumbotron{
+    margin-top:0px;
+    margin-bottom:0px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+.locationPics{
+    width:100%;
+    height:79%;
 }
