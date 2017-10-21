@@ -43,8 +43,8 @@ jumbotron.mainSec {
     border-top:0px;
     margin-top:0px;
     margin-bottom:0px;
-    padding-top:5px;
-    padding-bottom:5px;
+    padding-top:10px;
+    padding-bottom:10px;
     background-color:#474E5E;
     color:white;
     text-align:center;
@@ -119,8 +119,9 @@ div.col-md-3 {
 .centered {
     text-align: center;
     color:white;
-    background-color:rgba(71, 78, 94, 0.45);
-    padding-top: 150px;
+    background-color:rgba(71, 78, 94, 0.49);
+    padding-top: 79px;
+    margin-top: 0px;
     /*margin:35%;*/
 }
 .picText{
