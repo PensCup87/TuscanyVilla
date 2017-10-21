@@ -119,8 +119,8 @@ div.col-md-3 {
 .centered {
     text-align: center;
     color:white;
-    background-color:rgba(71, 78, 94, 0.25);
-    padding:0px;
+    background-color:rgba(71, 78, 94, 0.45);
+    padding-top: 150px;
     /*margin:35%;*/
 }
 .picText{
