@@ -12,7 +12,7 @@ nav#navvy.navbar.navbar-static-top{
 }
 
 #navvy a:hover{
-    background: none;
+    background:none;
 }
 li.active.left{
     text-align:left;
@@ -43,8 +43,8 @@ jumbotron.mainSec {
     border-top:0px;
     margin-top:0px;
     margin-bottom:0px;
-    padding-top:10px;
-    padding-bottom:10px;
+    padding-top:5px;
+    padding-bottom:5px;
     background-color:#474E5E;
     color:white;
     text-align:center;
@@ -105,11 +105,13 @@ div.col-md-3 {
     padding-left:23px;
 }
 .firstAndThirdRow{
+    text-align:center;
     display:inline;
     padding:0px;
     margin:0px;
 }
 .secondRow{
+    text-align:center;
     display:inline;
     padding:0px;
     margin:0px;
@@ -127,6 +129,7 @@ div.col-md-3 {
     color: white;
 }
 .reception {
+    text-align:center;
     background-image: url('HTML PICS/uppderDeckNight.jpg');
     height:325px;
     width:325px;
@@ -160,4 +163,11 @@ div.col-md-3 {
     font-size:14px;
     height:325px;
     width:325px;
+}
+.caroselDims{
+    height: 225px;
+    text-align:center;
+}
+.contactDeets{
+    padding-left: 10px;
 }
