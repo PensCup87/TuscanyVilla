@@ -1,69 +1,79 @@
 ﻿body {
     font-family: 'Old Standard TT', serif;
 }
-nav#navvy.navbar.navbar-static-top{
-    margin-top:0px;
+
+nav#navvy.navbar.navbar-static-top {
+    margin-top: 0px;
     margin-bottom: 0px;
     color: black;
-    background-color:#474E5E;
+    background-color: #474E5E;
 }
-#navvy a{
+
+#navvy a {
     color: white;
 }
 
-#navvy a:hover{
-    background:none;
-}
-li.active.left{
-    text-align:left;
-}
-jumbotron.mainSec {
-    display:inline;
+    #navvy a:hover {
+        background: none;
+    }
+
+li.active.left {
+    text-align: left;
 }
 
-.mapImage{
-    margin-right:auto;
+jumbotron.mainSec {
+    display: inline;
 }
+
+.mapImage {
+    margin-right: auto;
+}
+
 .mainText {
     color: white;
     text-align: center;
 }
+
 .mainSec {
     background-image: url('HTML PICS/largeVillaWithPoolHouse.jpg');
-    background-size:cover;
-    margin-bottom:0px;
-    padding-bottom:0px;
+    background-size: cover;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     height: 400px;
 }
-.rightSide{
-    height:400px;
-    
+
+.rightSide {
+    height: 400px;
 }
-.locations{
-    border-top:0px;
-    margin-top:0px;
-    margin-bottom:0px;
-    padding-top:10px;
-    padding-bottom:10px;
-    background-color:#474E5E;
-    color:white;
-    text-align:center;
+
+.locations {
+    border-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #474E5E;
+    color: white;
+    text-align: center;
 }
-.footer{
-    background-color:#474E5E;
-    color:white;
+
+.footer {
+    background-color: #474E5E;
+    color: white;
     text-align: center;
 }
 
 .rightSide {
-    text-align:right;
+    text-align: right;
 }
-button{
-    background-color:#474E5E;
-    color:white;
+
+button {
+    background-color: #474E5E;
+    color: white;
 }
-.button2{
-    background-color:white;
+
+.button2 {
+    background-color: white;
     color: #474E5E;
 }
 /*.mountainVilla{
@@ -72,103 +82,126 @@ button{
     width: 125px;
     margin-right: 130px;
 }*/
-h3 , button{
-    margin-left:70px;
-    margin-right:70px;
-}
-.locationDescription{
-    margin-left:70px;
-    margin-right:70px;
-}
-div.col-md-3 {
-    background-image: url('HTML PICS/mapWithLocation.jpg');
-    
-}
-.jumbotron{
-    margin-top:0px;
-    margin-bottom:0px;
-    padding-top:0px;
-    padding-bottom:0px;
+h3, button {
+    margin-left: 70px;
+    margin-right: 70px;
 }
 
-.locationPics{
-    width:100%;
-    height:79%;
+.locationDescription {
+    margin-left: 70px;
+    margin-right: 70px;
 }
-.location2{
-    background-color:#474E5E;
-    color:white;
+
+div.col-md-3 {
+    background-image: url('HTML PICS/mapWithLocation.jpg');
 }
-.modernVilla{
-    padding-top:23px;
-    padding-bottom:71px;
-    padding-left:23px;
+
+.jumbotron {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
-.firstAndThirdRow{
-    text-align:center;
-    display:inline;
-    padding:0px;
-    margin:0px;
+
+.locationPics {
+    width: 100%;
+    height: 79%;
 }
-.secondRow{
-    text-align:center;
-    display:inline;
-    padding:0px;
-    margin:0px;
+
+.location2 {
+    background-color: #474E5E;
+    color: white;
 }
+
+.modernVilla {
+    padding-top: 23px;
+    padding-bottom: 71px;
+    padding-left: 23px;
+}
+
+.firstAndThirdRow {
+    text-align: center;
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+
+.secondRow {
+    text-align: center;
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+
 .centered {
     text-align: center;
-    color:white;
-    background-color:rgba(71, 78, 94, 0.49);
-    padding-top: 79px;
+    color: white;
+    background-color: rgba(71, 78, 94, 0.69);
+    padding-top: 39px;
     margin-top: 0px;
+    max-width: 190px;
     /*margin:35%;*/
 }
-.picText{
+
+.picText {
     position: relative;
     text-align: center;
     color: white;
 }
+
 .reception {
-    text-align:center;
+    text-align: center;
     background-image: url('HTML PICS/uppderDeckNight.jpg');
-    height:325px;
-    width:325px;
-    background-size:cover;
+    height: 325px;
+    width: 325px;
+    background-size: cover;
 }
+
 .poolStairs {
     background-image: url('HTML PICS/poolWithStairCase.jpg');
-    height:325px;
-    width:325px;
-    background-size:cover;
+    height: 325px;
+    width: 325px;
+    background-size: cover;
 }
+
 .lampBedroom {
     background-image: url('HTML PICS/bedRoomThreeLamps.jpg');
-    height:325px;
-    width:325px;
-    background-size:cover;
+    height: 325px;
+    width: 325px;
+    background-size: cover;
 }
+
 .tableLight {
     background-image: url('HTML PICS/outDoorTableChairsUnderCover.jpg');
-    height:325px;
-    width:325px;
-    background-size:cover;
+    height: 325px;
+    width: 325px;
+    background-size: cover;
 }
+
 .tableWindow {
     background-image: url('HTML PICS/outDoorTableNearWindow.jpg');
-    height:325px;
-    width:325px;
-    background-size:cover;
+    height: 325px;
+    width: 325px;
+    background-size: cover;
 }
-.textDiv{
-    font-size:14px;
-    height:325px;
-    width:325px;
+
+.textDiv {
+    font-size: 14px;
+    height: 325px;
+    width: 325px;
 }
-.caroselDims{
+
+.caroselDims {
     height: 225px;
-    text-align:center;
+    text-align: center;
 }
-.contactDeets{
+
+.contactDeets {
     padding-left: 10px;
+}
+
+.newLink {
+    color: lawngreen;
+    background-color: black;
+    font-size: 16px;
 }
