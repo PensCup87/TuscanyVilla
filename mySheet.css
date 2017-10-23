@@ -136,11 +136,13 @@ div.col-md-3 {
 .centered {
     text-align: center;
     color: white;
-    background-color: rgba(71, 78, 94, 0.69);
+    background-color: rgba(71, 78, 94, 0.79);
     padding-top: 39px;
     margin-top: 0px;
     max-width: 190px;
-    /*margin:35%;*/
+    margin-top:125px;
+    padding-top:10px;
+    margin-left:60px;
 }
 
 .picText {
